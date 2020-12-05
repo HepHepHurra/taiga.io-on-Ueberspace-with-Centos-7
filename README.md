@@ -1,4 +1,4 @@
-# How to install taiga on uberspace 7
+# How to install taiga.io on uberspace with centos 7
 
 
 ## Steps:
